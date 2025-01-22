@@ -8,7 +8,7 @@ const HeroSection = () => (
           VISA VALUATION
         </h1>
         <p className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-6xl font-extrabold drop-shadow-2xl pt-2">
-          ALLOVER IN KERALA
+          ALL OVER IN KERALA
         </p>
       </div>
     </div>

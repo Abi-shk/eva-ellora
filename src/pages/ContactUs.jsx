@@ -33,7 +33,7 @@ const ContactUs = () => {
         <div className="flex justify-center items-center w-full p-8">
           <div className="w-full max-w-2xl">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15716.331117457237!2d76.28562634458001!3d10.010021072035245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d0f70bd89e7%3A0x9c18ff3e65dd4516!2sMamangalam%2C%20Elamakkara%2C%20Ernakulam%2C%20Kerala!5e0!3m2!1sen!2sin!4v1736181211416!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d62867.56452014954!2d76.3273469167938!3d9.998447828679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDAwJzUyLjMiTiA3NsKwMTgnMzcuNiJF!5e0!3m2!1sen!2sin!4v1737547085371!5m2!1sen!2sin"
               className="border-0 w-full h-[400px] md:h-[400px] rounded-2xl"
               allowFullScreen
               loading="lazy"

@@ -35,17 +35,17 @@ const Services = () => {
         <li>Valuation for Central Government under Direct Tax Laws Taxation</li>
         <li>Valuation for Accounting Purposes (Asset Valuation)</li>
         <li>Valuation in Court Cases, Family Partition, or Divorce Settlements</li>
-        <li>Liquidation and Insolvency (under IBBI / IBC, DRT, SARFAESI)</li>
+        
       </ul>
 
       {/* Second Column */}
       <ul className="space-y-4 text-lg list-disc pl-6 text-left">
+      <li>Liquidation and Insolvency (under IBBI / IBC, DRT, SARFAESI)</li>
         <li>Quantity Surveying and Estimation</li>
         <li>Fixing Fair rent and ground rent</li>
         <li>Architectural and Structural Designs</li>
-        <li>3D & 4D Simulations</li>
         <li>Lenders Engineering Services</li>
-        <li>Project Management</li>
+        
         <li>Chartered Engineer Certification Services</li>
         <li>Economic Feasibility Studies</li>
       </ul>

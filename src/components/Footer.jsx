@@ -38,11 +38,11 @@ const Footer = () => (
             </li>
             <li className="flex items-center gap-3 hover:text-black transition-colors">
               <FaPhoneAlt className="text-lg" />
-              <span>8891129013, 7994399013</span>
+              <span>8891129013</span>
             </li>
             <li className="flex items-center gap-3 hover:text-black transition-colors">
               <FaEnvelope className="text-lg" />
-              <span>info.elloradesigns@gmail.com</span>
+              <span>valuationkerala@gmail.com</span>
             </li>
           </ul>
         </div>
@@ -55,7 +55,7 @@ const Footer = () => (
           <ul className="space-y-3">
             <li className="flex items-center gap-3 hover:text-black transition-colors">
               <FaClock className="text-lg" />
-              <span>Open 9:00 AM - 6:00 PM</span>
+              <span>Opens 9:00 AM - 6:00 PM</span>
             </li>
           </ul>
           

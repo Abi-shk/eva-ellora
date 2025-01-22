@@ -14,21 +14,21 @@ const MainContent = () => (
     {/* Buttons */}
     <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
       <Link to={"/enquiry/0"}>
-        <button className="bg-blue-800 h-48 w-full text-white p-6 rounded-3xl shadow-md hover:bg-blue-700">
+        <button className="bg-customPurple h-48 w-full text-white p-6 rounded-3xl shadow-md hover:bg-purple-900">
           <h1 className="text-lg sm:text-2xl md:text-3xl font-bold">
             Valuation For VISA
           </h1>
         </button>
       </Link>
       <Link to={"/enquiry/1"}>
-        <button className="bg-blue-800 h-48 w-full text-white p-6 rounded-3xl shadow-md hover:bg-blue-700">
+        <button className="bg-customPurple h-48 w-full text-white p-6 rounded-3xl shadow-md hover:bg-purple-900">
           <h1 className="text-lg sm:text-2xl md:text-3xl font-bold">
             Tax Valuation
           </h1>
         </button>
       </Link>
       <Link to={"/enquiry/2"}>
-        <button className="bg-blue-800 h-48 w-full text-white p-6 rounded-3xl shadow-md hover:bg-blue-700">
+        <button className="bg-customPurple h-48 w-full text-white p-6 rounded-3xl shadow-md hover:bg-purple-900">
           <h1 className="text-lg sm:text-2xl md:text-3xl font-bold">
             Valuation For Stamp Duty
           </h1>

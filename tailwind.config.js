@@ -11,6 +11,9 @@ export default {
         sm: "1px 1px 3px rgba(0, 0, 0, 0.1)", // Small shadow
         lg: "4px 4px 6px rgba(0, 0, 0, 0.3)", // Large shadow
       },
+      colors: {
+        customPurple: '#753CC3', // Define the color with a custom name
+      }
     },
   },
   plugins: [],
